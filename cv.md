@@ -42,3 +42,4 @@ I work in Photoshop. I am studing hard JavaScript at the moment.
 ---
 - *Russian* 
 - *English*
+- [*EPAM English test result*](https://examinator.epam.com/Main/PersonalAssignments) - A2. I try to learn English in every possible way. I use applications in smartphone, watch movies and youtube videos in English.
